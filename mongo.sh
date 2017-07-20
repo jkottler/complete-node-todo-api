@@ -1,0 +1,1 @@
+docker run --name mongo -v /Users/jasonkottler/projects/complete-node/mongo-data:/data/db -p27017:27017 --rm -d mongo
